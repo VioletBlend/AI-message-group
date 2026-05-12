@@ -1,2 +1,2 @@
-!\[alternative](./alternative.png)
+!\[alternative](./alternatives.png)
 
