@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AI相談くん（LINE風）",
+  "version": "1.0",
+  "description": "LINE風UIでAIに悩み相談できる拡張機能",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
