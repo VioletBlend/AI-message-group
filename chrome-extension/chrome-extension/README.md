@@ -1,2 +1,2 @@
-![alternative](alternatives.png)
+![alternative](/alternatives.png)
 
